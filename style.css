@@ -40,6 +40,20 @@
 }
 
 .escola-titulo{
-    padding: 10px 0;
-    color: #DFFAFF;
+    color: white;
+    padding: 14px 0;
+}
+
+.escola-dois{
+    background-image: linear-gradient(#00C4CC,#0A1A44);
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 24px 0;
+}
+.escola-titulo-tres{
+    color: white;
+    padding: 14px 0;
+    
 }
