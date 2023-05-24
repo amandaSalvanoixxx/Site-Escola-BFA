@@ -11,10 +11,16 @@
     padding: 20px 0;
 }
 .cabeçalho-imagem{
-    width: 35%;
+    width: 40%;
 }
 
+.escola-imagem-um{
+    width: 40%;
+}
 
+.escola-item{
+    display: inline-block;
+}
 
 .cabeçalho-item{
     display: inline-block;
@@ -22,13 +28,13 @@
 }
    
 .escola-imagem{
-    width: 24%;
+    width: 40%;
 }
 
 
 
 .escola{
-    background-image: linear-gradient(#0A1A44,#00C4CC);
+    background-image: linear-gradient(#0A1A44,#1B939F);
     color: white;
     display: flex;
     justify-content: center;
@@ -45,7 +51,7 @@
 }
 
 .escola-dois{
-    background-image: linear-gradient(#00C4CC,#0A1A44);
+    background-image: linear-gradient(#1B939F,#0A1A44);
     color: white;
     display: flex;
     justify-content: center;
@@ -56,4 +62,8 @@
     color: white;
     padding: 14px 0;
     
+}
+
+body{
+    font-family: 'Poppins', sans-serif;
 }
