@@ -45,7 +45,16 @@
     width: 45%;
 }
 
+.escola-div-conteudo-um {
+    width: 45%;
+}
+
 .escola-titulo{
+    color: white;
+    padding: 14px 0;
+}
+
+.escola-quatro{
     color: white;
     padding: 14px 0;
 }
