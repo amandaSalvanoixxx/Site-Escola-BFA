@@ -12,6 +12,7 @@
 }
 .cabeçalho-imagem{
     width: 40%;
+    color: rgb(221, 235, 252);
 }
 
 .escola-imagem-um{
@@ -42,16 +43,20 @@
     padding: 24px 0;
 }
 .escola-div-conteudo{
-    width: 45%;
+    width: 55%;
+   
 }
 
+
 .escola-div-conteudo-um {
-    width: 45%;
+    width: 55%;
 }
 
 .escola-titulo{
-    color: white;
+    color: rgb(255, 255, 255);
+
     padding: 14px 0;
+  
 }
 
 .escola-quatro{
@@ -67,8 +72,8 @@
     align-items: center;
     padding: 24px 0;
 }
-.escola-titulo-tres{
-    color: white;
+.escola-tres{
+    color: rgb(255, 255, 255);
     padding: 14px 0;
     
 }
